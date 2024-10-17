@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="Resources/button.css">
   <div class="button" align="center" style="background-color:#757575;padding:10px;border-radius:80px 80px 0px 0px">
     <button type="button" name="homepagebutton" onclick="location.href='homepage.html'">Home Page</button>
-  </div>
+  </div> 
   </link>
   <div align="center" style="background-color:#c9c9c9;padding:150px;">
 
